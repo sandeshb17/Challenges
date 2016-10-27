@@ -1,0 +1,2 @@
+# Challenges
+STG Automation Challenges
